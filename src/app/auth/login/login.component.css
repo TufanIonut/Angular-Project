@@ -1,0 +1,23 @@
+.container {
+    overflow: hidden;
+  }
+  
+  .login-form {
+    max-width: 300px;
+    max-height: 800px;
+    margin: auto;
+    margin-top: 15%;
+  }
+  
+  .login-form-margin {
+    margin-bottom: 16px;
+  }
+  
+  .login-form-forgot {
+    float: right;
+  }
+  
+  .login-form-button {
+    width: 100%;
+  }
+  
